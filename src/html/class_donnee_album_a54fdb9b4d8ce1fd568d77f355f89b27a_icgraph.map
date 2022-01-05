@@ -1,0 +1,5 @@
+<map id="DonneeAlbum.getLien" name="DonneeAlbum.getLien">
+<area shape="rect" id="node1" title="Récupère le lien youtube de l&#39;album." alt="" coords="228,46,377,73"/>
+<area shape="rect" id="node2" href="$class_ligne_album.html#a05b7a963cae0d279a366a410c933a902" title="Cette fonction est éxécuté quand on clique sur un bouton." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="12,71,173,112"/>
+</map>

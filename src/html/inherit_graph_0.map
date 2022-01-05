@@ -1,0 +1,9 @@
+<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
+<area shape="rect" id="node1" title=" " alt="" coords="31,56,95,83"/>
+<area shape="rect" id="node2" href="$class_connexion.html" title="Cette classe permet de faire le formulaire pour se connecter" alt="" coords="168,5,251,32"/>
+<area shape="rect" id="node3" href="$class_fenetre_tri.html" title="Cette classe permet de faire un formulaire pour trier un album" alt="" coords="169,56,249,83"/>
+<area shape="rect" id="node4" href="$class_formulaire.html" title="Cette classe représente un formulaire qui sera complété par les classes filles" alt="" coords="168,107,251,133"/>
+<area shape="rect" id="node5" href="$class_formulaire_ajout.html" title="Cette classe permet d&#39;ajouter un album dans la base de données" alt="" coords="306,81,419,108"/>
+<area shape="rect" id="node6" href="$class_formulaire_modifier.html" title="Cette classe permet de modifier une album à l&#39;aide d&#39;un formulaire" alt="" coords="299,132,427,159"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,5,120,32"/>
+</map>

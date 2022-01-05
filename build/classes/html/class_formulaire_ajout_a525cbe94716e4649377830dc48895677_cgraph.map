@@ -1,0 +1,7 @@
+<map id="FormulaireAjout.b_validerActionPerformed" name="FormulaireAjout.b_validerActionPerformed">
+<area shape="rect" id="node1" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,23,172,65"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#ab682e0948516d0db824f5dbee1c14e2e" title="Permet d&#39;ajouter un album dans la base de données." alt="" coords="220,31,384,57"/>
+<area shape="rect" id="node3" href="$class_gestion_b_d_d.html#a35f785c7bdf09e6a23c262450a1f8b56" title="Cette fonction permet d&#39;ajouter un album" alt="" coords="436,5,611,32"/>
+<area shape="rect" id="node5" href="$class_gestion_b_d_d.html#adebed8a07e7f1d67e6760f9ea574bafe" title="Cette fonction permet de vérifier si l&#39;auteur et le titre sont déjà dans la base de données." alt="" coords="432,56,615,83"/>
+<area shape="rect" id="node4" href="$class_gestion_b_d_d.html#a801317333ed7865159632a740dbb1a99" title="Cette fonction retourne null si un tuple dans une colonne n&#39;existe pas, et retourne son contenu si ce..." alt="" coords="663,5,804,32"/>
+</map>

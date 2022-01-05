@@ -1,0 +1,5 @@
+<map id="Fenetre.modifier" name="Fenetre.modifier">
+<area shape="rect" id="node1" title="Permet de modifier les données d&#39;un album." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#ae277927000dfa853e349b9fa48ba398c" title="Cette fonction permet de modifier un album." alt="" coords="168,5,348,32"/>
+<area shape="rect" id="node3" href="$class_gestion_b_d_d.html#a801317333ed7865159632a740dbb1a99" title="Cette fonction retourne null si un tuple dans une colonne n&#39;existe pas, et retourne son contenu si ce..." alt="" coords="396,5,537,32"/>
+</map>

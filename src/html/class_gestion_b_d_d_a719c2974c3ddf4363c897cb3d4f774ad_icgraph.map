@@ -1,0 +1,4 @@
+<map id="GestionBDD.rechercherAlbumDate" name="GestionBDD.rechercherAlbumDate">
+<area shape="rect" id="node1" title="Cette fonction permet de rechercher un album en fonction de la date." alt="" coords="184,5,407,32"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#acdab40e642da40be1cb31d0cb25d340c" title="Permet de rechercher un album." alt="" coords="5,5,136,32"/>
+</map>

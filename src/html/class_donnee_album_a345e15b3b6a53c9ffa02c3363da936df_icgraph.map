@@ -1,0 +1,6 @@
+<map id="DonneeAlbum.getTitre" name="DonneeAlbum.getTitre">
+<area shape="rect" id="node1" title="Récupère le titre de l&#39;album." alt="" coords="464,42,615,69"/>
+<area shape="rect" id="node2" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="255,5,416,47"/>
+<area shape="rect" id="node3" href="$class_fenetre.html#a55cf35c4dc02491a2dec110245fd74b3" title="Cette fonction permet de supprimer un album." alt="" coords="272,71,399,98"/>
+<area shape="rect" id="node4" href="$class_ligne_album.html#a35643c6e4aec0adfa26f58e434221489" title="Cette fonction est éxécuté quand la souris clique dans le panel." alt="" coords="5,71,207,98"/>
+</map>

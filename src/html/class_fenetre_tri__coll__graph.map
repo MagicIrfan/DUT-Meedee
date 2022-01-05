@@ -1,0 +1,12 @@
+<map id="FenetreTri" name="FenetreTri">
+<area shape="rect" id="node1" title="Cette classe permet de faire un formulaire pour trier un album" alt="" coords="221,213,405,363"/>
+<area shape="rect" id="node3" href="$class_fenetre.html" title="Cette classe décrit la fenêtre principale" alt="" coords="167,687,357,1263"/>
+<area shape="rect" id="node2" title=" " alt="" coords="281,5,345,83"/>
+<area shape="rect" id="node6" href="$class_formulaire.html" title="Cette classe représente un formulaire qui sera complété par les classes filles" alt="" coords="5,468,172,663"/>
+<area shape="rect" id="node7" href="$class_connexion.html" title="Cette classe permet de faire le formulaire pour se connecter" alt="" coords="337,1325,544,1593"/>
+<area shape="rect" id="node5" href="$class_formulaire_ajout.html" title="Cette classe permet d&#39;ajouter un album dans la base de données" alt="" coords="41,1340,225,1579"/>
+<area shape="rect" id="node4" title=" " alt="" coords="131,249,196,327"/>
+<area shape="rect" id="node8" title=" " alt="" coords="381,936,495,1013"/>
+<area shape="rect" id="node9" href="$class_donnee_connection.html" title="Classe servant à stocker les données de connexion" alt="" coords="520,921,671,1028"/>
+<area shape="rect" id="node10" href="$class_gestion_b_d_d.html" title="Cette classe permet de gérer les requetes sql nécessaire pour ajouter des Albums et des utilisateurs ..." alt="" coords="429,132,609,444"/>
+</map>

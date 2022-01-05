@@ -1,0 +1,4 @@
+<map id="Fenetre.ajouterdansBDD" name="Fenetre.ajouterdansBDD">
+<area shape="rect" id="node1" title="Permet d&#39;ajouter un album dans la base de données." alt="" coords="220,13,384,39"/>
+<area shape="rect" id="node2" href="$class_formulaire_ajout.html#a525cbe94716e4649377830dc48895677" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,172,47"/>
+</map>

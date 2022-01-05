@@ -1,0 +1,12 @@
+<map id="FormulaireAjout" name="FormulaireAjout">
+<area shape="rect" id="node1" title="Cette classe permet d&#39;ajouter un album dans la base de données" alt="" coords="181,413,365,651"/>
+<area shape="rect" id="node4" href="$class_fenetre.html" title="Cette classe décrit la fenêtre principale" alt="" coords="111,751,300,1327"/>
+<area shape="rect" id="node2" href="$class_formulaire.html" title="Cette classe représente un formulaire qui sera complété par les classes filles" alt="" coords="190,132,357,327"/>
+<area shape="rect" id="node3" title=" " alt="" coords="241,5,305,83"/>
+<area shape="rect" id="node6" href="$class_connexion.html" title="Cette classe permet de faire le formulaire pour se connecter" alt="" coords="285,1389,491,1657"/>
+<area shape="rect" id="node10" href="$class_fenetre_tri.html" title="Cette classe permet de faire un formulaire pour trier un album" alt="" coords="5,1448,189,1599"/>
+<area shape="rect" id="node5" title=" " alt="" coords="91,493,157,571"/>
+<area shape="rect" id="node7" title=" " alt="" coords="324,1000,439,1077"/>
+<area shape="rect" id="node8" href="$class_donnee_connection.html" title="Classe servant à stocker les données de connexion" alt="" coords="463,985,614,1092"/>
+<area shape="rect" id="node9" href="$class_gestion_b_d_d.html" title="Cette classe permet de gérer les requetes sql nécessaire pour ajouter des Albums et des utilisateurs ..." alt="" coords="390,376,570,688"/>
+</map>

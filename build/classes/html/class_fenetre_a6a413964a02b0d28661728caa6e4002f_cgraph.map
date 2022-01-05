@@ -1,0 +1,4 @@
+<map id="Fenetre.rempliralbumfiltredate" name="Fenetre.rempliralbumfiltredate">
+<area shape="rect" id="node1" title="Cette fonction permet de créer des panels en fonction du nombre de lignes retournées par la requête S..." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a246e1998107314c53c8af62e01f7ce78" title="Cette fonction permet de trouver le nombre de ligne d&#39;un album avec un filtre." alt="" coords="247,5,483,32"/>
+</map>

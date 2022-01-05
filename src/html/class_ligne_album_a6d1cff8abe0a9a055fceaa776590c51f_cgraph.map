@@ -1,0 +1,4 @@
+<map id="LigneAlbum.setLienImage" name="LigneAlbum.setLienImage">
+<area shape="rect" id="node1" title="Change le lien de l&#39;image et vérifie si ce lien est vide." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$class_donnee_album.html#a609259ad41b4b3ab1b5699dd2f05c1dd" title="Récupère le lien internet de l&#39;image de l&#39;album." alt="" coords="224,5,408,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GestionBDD.ilExiste" name="GestionBDD.ilExiste">
+<area shape="rect" id="node1" title="Cette fonction retourne null si un tuple dans une colonne n&#39;existe pas, et retourne son contenu si ce..." alt="" coords="660,42,801,69"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a35f785c7bdf09e6a23c262450a1f8b56" title="Cette fonction permet d&#39;ajouter un album" alt="" coords="435,15,609,42"/>
+<area shape="rect" id="node5" href="$class_gestion_b_d_d.html#ae277927000dfa853e349b9fa48ba398c" title="Cette fonction permet de modifier un album." alt="" coords="432,67,612,94"/>
+<area shape="rect" id="node3" href="$class_fenetre.html#ab682e0948516d0db824f5dbee1c14e2e" title="Permet d&#39;ajouter un album dans la base de données." alt="" coords="220,14,384,41"/>
+<area shape="rect" id="node4" href="$class_formulaire_ajout.html#a525cbe94716e4649377830dc48895677" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node6" href="$class_fenetre.html#a3843c212b36dc41d96212d4e9e4c9787" title="Permet de modifier les données d&#39;un album." alt="" coords="245,71,359,98"/>
+<area shape="rect" id="node7" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="8,71,169,112"/>
+</map>

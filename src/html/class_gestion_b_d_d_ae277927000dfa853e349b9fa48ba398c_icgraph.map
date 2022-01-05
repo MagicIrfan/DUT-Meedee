@@ -1,0 +1,5 @@
+<map id="GestionBDD.modifierAlbum" name="GestionBDD.modifierAlbum">
+<area shape="rect" id="node1" title="Cette fonction permet de modifier un album." alt="" coords="377,13,557,39"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#a3843c212b36dc41d96212d4e9e4c9787" title="Permet de modifier les données d&#39;un album." alt="" coords="215,13,329,39"/>
+<area shape="rect" id="node3" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,167,47"/>
+</map>

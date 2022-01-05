@@ -1,0 +1,5 @@
+<map id="GestionBDD.nbLigneAlbumFiltre" name="GestionBDD.nbLigneAlbumFiltre">
+<area shape="rect" id="node1" title="Cette fonction permet de trouver le nombre de ligne d&#39;un album avec un filtre." alt="" coords="400,5,609,32"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#adf5c221ead34a6c4180ed6cefe4d99f0" title="Cette fonction permet de créer des panels en fonction du nombre de lignes retournées par la requête S..." alt="" coords="184,5,352,32"/>
+<area shape="rect" id="node3" href="$class_fenetre.html#acdab40e642da40be1cb31d0cb25d340c" title="Permet de rechercher un album." alt="" coords="5,5,136,32"/>
+</map>

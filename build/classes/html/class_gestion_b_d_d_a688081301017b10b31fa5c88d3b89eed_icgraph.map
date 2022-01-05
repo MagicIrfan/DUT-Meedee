@@ -1,0 +1,4 @@
+<map id="GestionBDD.verifNomUtilisateur" name="GestionBDD.verifNomUtilisateur">
+<area shape="rect" id="node1" title="Cette fonction permet de vérifier si le nom d&#39;un utilisateur est déjà dans la base de données." alt="" coords="251,13,456,39"/>
+<area shape="rect" id="node2" href="$class_connexion.html#a46b59631a0c790c99f600789cb9cae1d" title="Cette fonction est exécuté quand on appuie sur le bouton de connexion." alt="" coords="5,5,203,47"/>
+</map>

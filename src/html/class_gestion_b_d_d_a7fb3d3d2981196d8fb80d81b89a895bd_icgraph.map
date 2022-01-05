@@ -1,0 +1,5 @@
+<map id="GestionBDD.selectAlbum" name="GestionBDD.selectAlbum">
+<area shape="rect" id="node1" title="Cette fonction permet de sélectionner un album." alt="" coords="385,13,556,39"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#a1600188775770a59585a3be512771858" title="Cette fonction permet de consulter les albums contenus dans la base de données." alt="" coords="215,13,337,39"/>
+<area shape="rect" id="node3" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,167,47"/>
+</map>

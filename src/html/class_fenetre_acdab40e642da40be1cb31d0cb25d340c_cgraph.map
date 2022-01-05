@@ -1,0 +1,9 @@
+<map id="Fenetre.rechercher" name="Fenetre.rechercher">
+<area shape="rect" id="node1" title="Permet de rechercher un album." alt="" coords="5,81,136,108"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a22417408a9c9bfe1458763fc2ca97ef8" title="Cette fonction permet de rechercher un album." alt="" coords="197,5,393,32"/>
+<area shape="rect" id="node3" href="$class_gestion_b_d_d.html#a719c2974c3ddf4363c897cb3d4f774ad" title="Cette fonction permet de rechercher un album en fonction de la date." alt="" coords="184,56,407,83"/>
+<area shape="rect" id="node4" href="$class_fenetre.html#adf5c221ead34a6c4180ed6cefe4d99f0" title="Cette fonction permet de créer des panels en fonction du nombre de lignes retournées par la requête S..." alt="" coords="211,107,379,133"/>
+<area shape="rect" id="node6" href="$class_fenetre.html#a6a413964a02b0d28661728caa6e4002f" title="Cette fonction permet de créer des panels en fonction du nombre de lignes retournées par la requête S..." alt="" coords="199,157,392,184"/>
+<area shape="rect" id="node5" href="$class_gestion_b_d_d.html#a0d4e5acd3995778336520ad8f86766eb" title="Cette fonction permet de trouver le nombre de ligne d&#39;un album avec un filtre." alt="" coords="468,107,677,133"/>
+<area shape="rect" id="node7" href="$class_gestion_b_d_d.html#a246e1998107314c53c8af62e01f7ce78" title="Cette fonction permet de trouver le nombre de ligne d&#39;un album avec un filtre." alt="" coords="455,157,691,184"/>
+</map>

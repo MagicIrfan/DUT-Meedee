@@ -1,0 +1,7 @@
+<map id="LigneAlbum.formMouseClicked" name="LigneAlbum.formMouseClicked">
+<area shape="rect" id="node1" title="Cette fonction est éxécuté quand la souris clique dans le panel." alt="" coords="5,56,207,83"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#a55cf35c4dc02491a2dec110245fd74b3" title="Cette fonction permet de supprimer un album." alt="" coords="255,56,381,83"/>
+<area shape="rect" id="node3" href="$class_donnee_album.html#ac066e4256a40ebd3ce7b077d2cdaba60" title="Récupère le nom de l&#39;auteur." alt="" coords="450,5,613,32"/>
+<area shape="rect" id="node4" href="$class_donnee_album.html#a345e15b3b6a53c9ffa02c3363da936df" title="Récupère le titre de l&#39;album." alt="" coords="456,56,607,83"/>
+<area shape="rect" id="node5" href="$class_gestion_b_d_d.html#a0fc284ba8221bc8db3a8ba4aa72162cc" title="Cette fonction permet de supprimer un album d&#39;un utilisateur dans la base de données et dans l&#39;applic..." alt="" coords="429,107,633,133"/>
+</map>

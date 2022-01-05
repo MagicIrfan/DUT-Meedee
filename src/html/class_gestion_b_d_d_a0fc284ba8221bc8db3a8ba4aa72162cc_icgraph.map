@@ -1,0 +1,5 @@
+<map id="GestionBDD.supprimerunalbum" name="GestionBDD.supprimerunalbum">
+<area shape="rect" id="node1" title="Cette fonction permet de supprimer un album d&#39;un utilisateur dans la base de données et dans l&#39;applic..." alt="" coords="429,5,633,32"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#a55cf35c4dc02491a2dec110245fd74b3" title="Cette fonction permet de supprimer un album." alt="" coords="255,5,381,32"/>
+<area shape="rect" id="node3" href="$class_ligne_album.html#a35643c6e4aec0adfa26f58e434221489" title="Cette fonction est éxécuté quand la souris clique dans le panel." alt="" coords="5,5,207,32"/>
+</map>

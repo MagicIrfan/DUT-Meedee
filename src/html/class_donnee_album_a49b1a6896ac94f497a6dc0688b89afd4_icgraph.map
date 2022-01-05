@@ -1,0 +1,4 @@
+<map id="DonneeAlbum.getGenre" name="DonneeAlbum.getGenre">
+<area shape="rect" id="node1" title="Récupère le genre de l&#39;album." alt="" coords="215,13,375,39"/>
+<area shape="rect" id="node2" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,167,47"/>
+</map>

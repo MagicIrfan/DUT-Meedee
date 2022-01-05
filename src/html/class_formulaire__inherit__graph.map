@@ -1,0 +1,6 @@
+<map id="Formulaire" name="Formulaire">
+<area shape="rect" id="node1" title="Cette classe représente un formulaire qui sera complété par les classes filles" alt="" coords="125,131,291,325"/>
+<area shape="rect" id="node3" href="$class_formulaire_ajout.html" title="Cette classe permet d&#39;ajouter un album dans la base de données" alt="" coords="5,432,189,685"/>
+<area shape="rect" id="node4" href="$class_formulaire_modifier.html" title="Cette classe permet de modifier une album à l&#39;aide d&#39;un formulaire" alt="" coords="213,373,424,744"/>
+<area shape="rect" id="node2" title=" " alt="" coords="176,5,240,83"/>
+</map>

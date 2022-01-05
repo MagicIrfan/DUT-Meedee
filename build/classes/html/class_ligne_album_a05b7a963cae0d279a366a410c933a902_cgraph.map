@@ -1,0 +1,4 @@
+<map id="LigneAlbum.b_ouvrirActionPerformed" name="LigneAlbum.b_ouvrirActionPerformed">
+<area shape="rect" id="node1" title="Cette fonction est éxécuté quand on clique sur un bouton." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$class_donnee_album.html#a54fdb9b4d8ce1fd568d77f355f89b27a" title="Récupère le lien youtube de l&#39;album." alt="" coords="228,13,377,39"/>
+</map>

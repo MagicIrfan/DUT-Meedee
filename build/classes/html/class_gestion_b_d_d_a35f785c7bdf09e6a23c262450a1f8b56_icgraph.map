@@ -1,0 +1,5 @@
+<map id="GestionBDD.ajouterAlbum" name="GestionBDD.ajouterAlbum">
+<area shape="rect" id="node1" title="Cette fonction permet d&#39;ajouter un album" alt="" coords="432,13,607,39"/>
+<area shape="rect" id="node2" href="$class_fenetre.html#ab682e0948516d0db824f5dbee1c14e2e" title="Permet d&#39;ajouter un album dans la base de données." alt="" coords="220,13,384,39"/>
+<area shape="rect" id="node3" href="$class_formulaire_ajout.html#a525cbe94716e4649377830dc48895677" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,172,47"/>
+</map>

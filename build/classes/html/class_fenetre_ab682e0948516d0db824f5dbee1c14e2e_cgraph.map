@@ -1,0 +1,6 @@
+<map id="Fenetre.ajouterdansBDD" name="Fenetre.ajouterdansBDD">
+<area shape="rect" id="node1" title="Permet d&#39;ajouter un album dans la base de données." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a35f785c7bdf09e6a23c262450a1f8b56" title="Cette fonction permet d&#39;ajouter un album" alt="" coords="221,5,396,32"/>
+<area shape="rect" id="node4" href="$class_gestion_b_d_d.html#adebed8a07e7f1d67e6760f9ea574bafe" title="Cette fonction permet de vérifier si l&#39;auteur et le titre sont déjà dans la base de données." alt="" coords="217,56,400,83"/>
+<area shape="rect" id="node3" href="$class_gestion_b_d_d.html#a801317333ed7865159632a740dbb1a99" title="Cette fonction retourne null si un tuple dans une colonne n&#39;existe pas, et retourne son contenu si ce..." alt="" coords="448,5,589,32"/>
+</map>

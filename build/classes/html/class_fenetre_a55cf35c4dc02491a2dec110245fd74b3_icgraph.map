@@ -1,0 +1,4 @@
+<map id="Fenetre.supprimer" name="Fenetre.supprimer">
+<area shape="rect" id="node1" title="Cette fonction permet de supprimer un album." alt="" coords="255,5,381,32"/>
+<area shape="rect" id="node2" href="$class_ligne_album.html#a35643c6e4aec0adfa26f58e434221489" title="Cette fonction est éxécuté quand la souris clique dans le panel." alt="" coords="5,5,207,32"/>
+</map>

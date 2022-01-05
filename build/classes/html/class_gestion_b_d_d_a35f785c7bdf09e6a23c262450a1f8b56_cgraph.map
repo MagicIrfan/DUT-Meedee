@@ -1,0 +1,4 @@
+<map id="GestionBDD.ajouterAlbum" name="GestionBDD.ajouterAlbum">
+<area shape="rect" id="node1" title="Cette fonction permet d&#39;ajouter un album" alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a801317333ed7865159632a740dbb1a99" title="Cette fonction retourne null si un tuple dans une colonne n&#39;existe pas, et retourne son contenu si ce..." alt="" coords="228,5,369,32"/>
+</map>

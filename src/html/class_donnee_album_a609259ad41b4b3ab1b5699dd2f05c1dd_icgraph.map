@@ -1,0 +1,5 @@
+<map id="DonneeAlbum.getLienImage" name="DonneeAlbum.getLienImage">
+<area shape="rect" id="node1" title="Récupère le lien internet de l&#39;image de l&#39;album." alt="" coords="433,13,617,39"/>
+<area shape="rect" id="node2" href="$class_formulaire_modifier.html#affae79b3dad147e0a7f32dbebec00c95" title="Cette fonction est exécuter quand on appuie sur le bouton &quot;Valider&quot; du formulaire." alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node3" href="$class_ligne_album.html#a6d1cff8abe0a9a055fceaa776590c51f" title="Change le lien de l&#39;image et vérifie si ce lien est vide." alt="" coords="215,38,385,65"/>
+</map>

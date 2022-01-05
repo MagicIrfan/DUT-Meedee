@@ -1,0 +1,9 @@
+<map id="Connexion.b_connexionActionPerformed" name="Connexion.b_connexionActionPerformed">
+<area shape="rect" id="node1" title="Cette fonction est exécuté quand on appuie sur le bouton de connexion." alt="" coords="5,125,203,166"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a437891e7cf3f2b5b170cfc7f79ac64c6" title="Cette fonction permet d&#39;ajouter un utilisateur." alt="" coords="256,5,451,32"/>
+<area shape="rect" id="node3" href="$class_fenetre.html#af58e683cc95fd81f9ede7b57c71d2e45" title="Récupère les données de la BDD." alt="" coords="296,56,411,83"/>
+<area shape="rect" id="node4" href="$class_donnee_connection.html#a8428d3e07829196e7ad9fa3b240e9e1f" title="Récupère le pseudo de l&#39;utilisateur." alt="" coords="255,107,452,133"/>
+<area shape="rect" id="node5" href="$class_donnee_connection.html#ae91b44a38a948f0e45007066e4c922f0" title="Change le pseudo de l&#39;utlisateur." alt="" coords="255,157,452,184"/>
+<area shape="rect" id="node6" href="$class_fenetre.html#a0bc233c516dd5e7c2808bf3912888a6b" title="Permet de changer le JLabel contenant le pseudo." alt="" coords="287,208,419,235"/>
+<area shape="rect" id="node7" href="$class_gestion_b_d_d.html#a688081301017b10b31fa5c88d3b89eed" title="Cette fonction permet de vérifier si le nom d&#39;un utilisateur est déjà dans la base de données." alt="" coords="251,259,456,285"/>
+</map>

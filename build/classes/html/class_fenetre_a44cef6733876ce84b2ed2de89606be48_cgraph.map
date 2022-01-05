@@ -1,0 +1,4 @@
+<map id="Fenetre.l_supprimerMouseClicked" name="Fenetre.l_supprimerMouseClicked">
+<area shape="rect" id="node1" title="Cette fonction est éxécuté quand la souris clique sur le label supprimer." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$class_gestion_b_d_d.html#a520ca664cfee5db57c7d6017254652d6" title="Cette fonction permet de supprimer tout les albums d&#39;un utilisateur dans la base de données et dans l..." alt="" coords="229,13,441,39"/>
+</map>
